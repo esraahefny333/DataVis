@@ -11,6 +11,9 @@ import grad.proj.webApp.firstApp.results.Cell;
 import grad.proj.webApp.firstApp.results.Column;
 import grad.proj.webApp.firstApp.results.Config;
 import grad.proj.webApp.firstApp.results.Encoding;
+
+
+
 import grad.proj.webApp.firstApp.results.Facet;
 import grad.proj.webApp.firstApp.results.Result;
 import grad.proj.webApp.firstApp.results.Scale;
