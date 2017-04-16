@@ -28,6 +28,8 @@ import grad.proj.webApp.firstApp.results.Url;
 @Path("/visList")
 public class VisList { 
 
+	
+	
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
 	public ArrayList<VisData> chart() throws ClassNotFoundException, SQLException
