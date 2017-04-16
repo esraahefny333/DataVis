@@ -25,7 +25,7 @@ import grad.proj.webApp.firstApp.results.Tuple;
 import grad.proj.webApp.firstApp.results.Url;
 
 
-@Path("/VisList")
+@Path("/visList")
 public class VisList { 
 
 	@GET
