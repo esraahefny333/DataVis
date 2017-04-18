@@ -25,6 +25,7 @@ public class SqLiteHelper {
     }
 
     public static void getConnection() {
+    	
 
         try {
             Class.forName("org.sqlite.JDBC"); //dynamically loaded
