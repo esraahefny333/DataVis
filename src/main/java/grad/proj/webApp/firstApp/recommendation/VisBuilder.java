@@ -17,6 +17,7 @@ public class VisBuilder {
     private String tableName = "Traffic_Violations";
     private String x_axis_D = "Race";//Dimention Attribute (D)
     private String y_axis_M = "Accident";//Measure Attribute (M) 
+    
     private String aggregate_F = "Count";//Aggregate function (F)
 
     /*

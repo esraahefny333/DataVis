@@ -18,6 +18,7 @@ public class SqLiteHelper {
 
     public SqLiteHelper() throws ClassNotFoundException, SQLException {
 
+    	
         this.con = null;
         this.stmt = null;
         this.getConnection();

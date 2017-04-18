@@ -35,6 +35,7 @@ public class Optimized {
 		
 		
 		VisBuilder vb = new VisBuilder();
+		
         VisExtract extract = new VisExtract(vb.getTableName(), vb.getXAxis(), vb.getYAxis(),
                 vb.getAggregateFunction(), vb.getSelectorOnDimension(),
                 vb.getSpecificAttribute(), vb.getFirstOperator(), vb.getfirstSelector(),

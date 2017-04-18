@@ -23,6 +23,7 @@ public class VisExtract {
     private String firstOperator;
     private String firstSelector;
     private String secondOperator;
+    
     private String secondSelector;
 
     private VisData vd;
