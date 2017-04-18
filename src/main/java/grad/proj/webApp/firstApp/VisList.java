@@ -105,6 +105,8 @@ public class VisList {
 			Tuple tuple = new Tuple();
 			result.setData(url);
 			//return result;
+			extract.showVis();
+
 
 		  return recommendationList_bruteForce;
 	}
